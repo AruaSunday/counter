@@ -16,14 +16,14 @@ myFunctions(myFunction_);
 });
 
 function myFunction1(){
-    return count+= 10;
+    return count+= 1;
 }
 function myFunction3(){
     if (count === 0){
         return count = 0;
     }
     else{
-        return count-= 10;
+        return count-= 1;
     }
 }
 function myFunction_(){
